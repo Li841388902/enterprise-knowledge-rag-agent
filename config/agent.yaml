@@ -1,0 +1,5 @@
+"agent_model": "qwen3.5-plus"
+"prompt_path": "agent/agent_prompt.txt"
+"MAX_HISTORY": 5
+"chat_history_cache_time": 259200
+"agent_url": "https://dashscope.aliyuncs.com/compatible-mode/v1"

@@ -1,0 +1,33 @@
+#核心依赖
+
+# Web 服务
+fastapi==0.135.2
+uvicorn==0.40.0
+streamlit==1.53.1
+
+# 数据库 & 缓存
+pymysql==1.1.2
+redis==7.4.0
+pymilvus==2.6.12
+
+# LLM & Agent
+langchain==1.2.9
+langgraph==1.0.8
+langchain-openai==1.1.9
+langchain-community==0.4.1
+langchain-core==1.2.16
+dashscope==1.25.11
+
+# 文档处理
+pandas==2.3.3
+PyPDF2==3.0.1
+python-docx==1.2.0
+jieba==0.42.1
+langchain-text-splitters==0.2.0
+rank-bm25==0.2.2
+
+# 工具
+pydantic==2.8.2
+requests==2.32.3
+PyYAML==6.0.2
+python-multipart==0.0.12
